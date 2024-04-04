@@ -1,17 +1,24 @@
 # Hi, I’m Andreea Farcas 👋
 
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Front-End development.
-- 💞️ I’m looking to share and gain knowledge.
-- 🥅 2024 Goals: Join a cool team where I can leverage my skills and continue developing them.
+Welcome to my coding universe!
 
-### Connect with me:
+### About Me
+
+- 👀 Exploring the vast landscape of web development.
+- 🌱 Currently diving deep into Front-End technologies.
+- 💞️ Eager to share insights and collaborate on exciting projects.
+- 🥅 2024 Goal: Join a cool team where I can leverage my skills and continue developing them.
+
+### Let's Connect!
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andreea-denisa-farcas#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andreea-denisa-farcas)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/f.andreea.d#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/f.andreea.d)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/AndreeaFarcas98#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AndreeaFarcas98)
 
 ### Skills:
 
