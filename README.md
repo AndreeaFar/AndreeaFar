@@ -6,7 +6,7 @@ Welcome to my coding universe!
 
 - 👀 Exploring the vast landscape of web development.
 - 🌱 Currently diving deep into Front-End technologies.
-- 💞️ Eager to share insights and collaborate on exciting projects.
+- 💞️ Happy to share insights and collaborate on exciting projects.
 - 🥅 2024 Goal: Join a cool team where I can leverage my skills and continue developing them.
 
 ### Let's Connect!
