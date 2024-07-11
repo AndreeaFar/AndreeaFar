@@ -1,4 +1,4 @@
-# Hi, I’m Andreea Farcas 👋
+# Hello, world! I’m Andreea Farcas 👋
 
 Welcome to my coding universe!
 
